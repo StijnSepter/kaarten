@@ -1,0 +1,89 @@
+body{
+    background-color: rgba(34, 182, 34, 0.723);
+}
+
+.kaart{
+    width: 180px;
+    height: 300px;
+    border: solid 1px black;
+    border-radius: 4%;
+    background-color: white;
+}
+
+.popetje{
+    width: 90px;
+    height: 90px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.klaver{
+    width: 50px;
+    height: 50px;
+    margin: 5px;   
+}
+
+.klaver1{
+    float: right;
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+}
+
+.harten{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+}
+
+.harten1{
+    float: right;
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+}
+
+.schoppen{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+}
+
+.schoppen1{
+    float: right;
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+}
+
+.ruiten{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+}
+
+.ruiten1{
+    float: right;
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+}
+
+.space{
+    height: 33px;
+    width: 100px;
+}
+
+#harten{
+    margin-left: 190px;
+}
+
+#schoppen{
+    margin-left: 380px;
+}
+
+#ruiten{
+    margin-left: 570px;
+}
